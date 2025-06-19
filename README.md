@@ -1,4 +1,4 @@
-## bagel-arch
+# bagel-arch
 
 ## INPUT STAGE
 
